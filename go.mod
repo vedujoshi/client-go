@@ -1,4 +1,4 @@
-module kubevirt.io/client-go
+module github.com/vedujoshi/client-go
 
 go 1.17
 
